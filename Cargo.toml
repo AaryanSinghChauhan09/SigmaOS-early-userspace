@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-early-userspace"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS early-userspace component - boot"
+
+[lib]
+name = "early_userspace"
+path = "src/lib.rs"
