@@ -3,7 +3,7 @@ name = "SigmaOS-early-userspace"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "early-userspace component"
+description = "early userspace component"
 upstream = []
 
 [contract]
